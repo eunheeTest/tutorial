@@ -3,7 +3,7 @@
   "extends": [
     "config:base"
   ],
-  "prHourlyLimit": 10,
+  "prHourlyLimit": 5
  "packageRules": [
     {
       "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
